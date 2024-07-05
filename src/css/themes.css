@@ -1,0 +1,22 @@
+:root {
+  --white: #fff;
+  --black: #000;
+
+  --background: #f8dec2;
+  --background-secondary: #FFC9A6;
+  --background-terceary: #f3e6d7;
+
+  --orange: #FF8E00;
+  --orange-hover: #ce7100;
+  --red: #FA5600;
+
+  --text1: #D9D9D9;
+  --text2: #CCCCCC;
+  --text3: #BFBFBF;
+
+  --gray1: #8C8C8C;
+  --gray2: #808080;
+  --gray3: #737373;
+  --gray4: #2e2e2e;
+
+}
